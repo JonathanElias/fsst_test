@@ -1,3 +1,3 @@
 # FSST Test
 
-![](./image.svg)
+![image](https://svgur.com/i/RVx.svg)
