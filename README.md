@@ -1,2 +1,3 @@
-# fsst_test
-FSST Test Repo
+# FSST Test
+
+![](./image.svg)
